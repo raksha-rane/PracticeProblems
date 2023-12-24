@@ -1,15 +1,15 @@
 """
- Platform  : GFG
- Title     : Buy Maximum Stocks if i stocks can be bought on ith day
+ Platform          : GFG
+ Title             : Buy Maximum Stocks if i stocks can be bought on ith day
  Problem statement : In a stock market, there is a product with its infinite stocks. 
- The stock prices are given for N days, where price[i] denotes the price of the stock on the ith day. 
- There is a rule that a customer can buy at most i stock on the ith day. 
- If the customer has an amount of k amount of money initially. 
- The task is to find out the maximum number of stocks a customer can buy. 
- Author    : Raksha Rane
- Solved On   : 24 Dec 2023
- Solved Using   : C++ (g++ 5.4)
- """
+                     The stock prices are given for N days, where price[i] denotes the price of the stock on the ith day. 
+                     There is a rule that a customer can buy at most i stock on the ith day. 
+                     If the customer has an amount of k amount of money initially. 
+                     The task is to find out the maximum number of stocks a customer can buy. 
+ Author            : Raksha Rane
+ Solved On         : 24 Dec 2023
+ Solved Using      : C++ (g++ 5.4)
+"""
   
 class Solution {
 public:
