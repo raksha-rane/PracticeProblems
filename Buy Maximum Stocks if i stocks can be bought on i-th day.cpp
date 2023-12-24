@@ -42,5 +42,6 @@ public:
 // Time Complexity      : O(nlogn)
 // Space Complexity     : O(n)
 
-// Algorithms used      : Greedy algorithm, sorting algorithm, 
+// Algorithms used      : Greedy algorithm
 // Data structures used : Array, Pair
+// Functions used       : sort, min, make_pair
