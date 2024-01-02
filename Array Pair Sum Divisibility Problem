@@ -3,7 +3,7 @@
  Title             : Array Pair Sum Divisibility Problem
  Problem statement : Given an array of integers nums and a number k, write a function that returns true if given array can be divided into pairs such that sum of every pair is divisible by k.
  Author            : Raksha Rane
- Solved On         : 1 Jan 2024
+ Solved On         : 01 Jan 2024
  Solved Using      : C++ (g++ 5.4)
 """
 
